@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@heroicons/react": "^2.0.18",
+    "@prisma/client": "^6.5.0",
+    "@react-google-maps/api": "^2.20.6",
+    "@types/bcryptjs": "^2.4.6",
+    "@types/google.maps": "^3.58.1",
+    "bcryptjs": "^3.0.2",
+    "jose": "^6.0.10"
+  },
+  "devDependencies": {
+    "prisma": "^6.5.0"
+  }
+}
